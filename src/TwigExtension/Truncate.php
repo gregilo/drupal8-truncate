@@ -1,6 +1,6 @@
 <?php
 
-namespace Drupal\truncate\TwigExtension;
+namespace Drupal\twig_truncate\TwigExtension;
 
 use Drupal\Component\Utility\Unicode;
 
@@ -15,7 +15,7 @@ class Truncate extends \Twig_Extension {
      *
      */
     public function getName() {
-        return 'truncate.twig_extension';
+        return 'twig_truncate.twig_extension';
     }
 
     /**

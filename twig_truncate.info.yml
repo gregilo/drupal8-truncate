@@ -1,4 +1,4 @@
-name: Truncate
+name: Twig Truncate
 description: Adds Twig filter for easily truncating text
 package: Custom
 type: module
